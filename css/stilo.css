@@ -1,0 +1,25 @@
+body{
+text-align: center;
+}
+p{
+	font-family: helvetica;
+	size: 20;
+
+}
+body{
+	background: url("../img/nilda.jpg");
+	background-size: cover;
+}
+button{
+	background: red;
+	width: 60px;
+	height: 30px;
+	border:none;
+
+}
+img{
+	border-radius: 120px 80px 120px 80px;
+	box-shadow: 0px 0px 20px 5px white;
+}
+
+
